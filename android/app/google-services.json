@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "304553770240",
+    "firebase_url": "https://babynames-6b3ad.firebaseio.com",
+    "project_id": "babynames-6b3ad",
+    "storage_bucket": "babynames-6b3ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304553770240:android:1127b1a915523915",
+        "android_client_info": {
+          "package_name": "io.m3diate.tinderforbabynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304553770240-g87eim55ai2ui5oakcskci962rrf9638.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkux7bLEvCNcYjD-MAUmxqUpgkkoBjjUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
